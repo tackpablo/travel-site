@@ -40,7 +40,7 @@
 
             .site-header--dark & {
                 transform: scale(0.55);
-                top:-43%;
+                top:-41%;
             }
         }
     }
