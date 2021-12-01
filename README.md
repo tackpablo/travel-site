@@ -2,7 +2,8 @@
 A web application project from the Udemy course - [Git a Web Developer Job: Mastering the Modern Workflow](https://www.udemy.com/course/git-a-web-developer-job-mastering-the-modern-workflow/).
 
 ## Live Demo 
-- Please visit [my app here](https://tackpablo.github.io/travel-site/).
+- Please visit [my app here](https://tackpablo.github.io/travel-site/) on Github Pages.
+- Please visit [my app here](https://admiring-minsky-b47bf9.netlify.app/) on Netlify.
 
 ## Built Using the following:
 - **Front-end** 
